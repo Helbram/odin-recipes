@@ -1,0 +1,55 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.recipes {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+/* Piccata */
+
+.piccata {
+    width: 500px;
+    height: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Carbonara */
+
+#carbonara {
+    width: auto;
+    height: auto;
+}
